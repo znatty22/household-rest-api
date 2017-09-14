@@ -1,5 +1,5 @@
 # About
-This repository was created just for fun to experiment with flask, redis, and docker. It contains a rest api for household resources. You can get the federal poverty level percentage for a household.
+This repository was created just for fun to experiment with flask, redis, and docker. It contains a rest api for household resources. You can get a listing of household, a particular household by id and the federal poverty level percentage for a household.
 
 # Household Resource REST API Documentation
 This api doc provides documentation on how to create and retrieve household resources via the company household rest api. The api currently does not support all CRUD (create, read, update, delete) operations. Only create and read have been implemented thus far.
